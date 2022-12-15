@@ -1,0 +1,5 @@
+1) Record the weekly temperature of two cities and display it
+2) There are 2 departments and 2 students each with 3 subjects marks 
+   Declare an array and intialize the subject marks of each student 
+   and find the toal of each student in each department and print it
+3) Display whether the given number is pronic or not
