@@ -1,0 +1,9 @@
+ANP-3689
+1) create an employee class with name,id,salary and intialize it using constructor and override toString() method
+to print the string representation of employee and an instance method which increments the salary of the employee
+and call the method inside another class MainEmployee and increment the salary and display employee information
+2) create a class called Book which can hold publisher name,author name, book name and isbc number of the book
+and use getter and setter method and create another class McGrawhill and inherit the book class and another class
+Packt and inherit the class and another MainBook class to initialize the variable and display the information
+3) write an inner class which is private for baking application only when the person is authorized he can create 
+instance for inner class and add interest to the person.
