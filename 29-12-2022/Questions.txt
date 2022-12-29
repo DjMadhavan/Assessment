@@ -1,0 +1,4 @@
+1) Write an functional interface with lambda expression to pass a set of items and display it using for each loop.
+2) Write an custom exception where there are set of student names,student id, attendance and his marks display it 
+   and throw the Custom exception when student gets less than 60% attendance.
+3) Write an abstract class with college id and college name as instance variable and intialize it using constructor
