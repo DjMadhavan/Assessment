@@ -1,0 +1,6 @@
+1) Create a class called Book with author name,book name and isbc number as variable and store it in collection and retrive 
+   it using for each loop and itertor and also do serializaion and clonning
+2) Create a Thread to show synchronization where there is a college with college name and college id and it has capacity 
+   of upto 50 students already 48 students has got admission then for 51 student it has to display admission is full
+3) Create a class called Student with student name,id,attendance and mark and sort it according to students name and display
+   the details
